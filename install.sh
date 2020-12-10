@@ -1,5 +1,5 @@
 #!/bin/bash
-wget -O install.sh "https://raw.githubusercontent.com/ripunk/Nethunter_terminal_parrot/master/.bashrc" && chmod +x install.sh && ./install.sh
+wget -O .bashrc "https://raw.githubusercontent.com/ripunk/Nethunter_terminal_parrot/master/.bashrc"
 clear
 sleep 0.1
 sleep 0.1 && echo -e "######################################################"
